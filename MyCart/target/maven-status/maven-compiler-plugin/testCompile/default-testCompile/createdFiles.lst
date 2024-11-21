@@ -1,0 +1,5 @@
+com\mycart\mycart\ControllerTests\ImageServiceTest.class
+com\mycart\mycart\ControllerTests\CategoryService.class
+com\mycart\mycart\MyCartApplicationTests.class
+com\mycart\mycart\ControllerTests\ProductControllerTest.class
+com\mycart\mycart\ControllerTests\ProductServiceTest.class
