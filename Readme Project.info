@@ -1,0 +1,20 @@
+hi everyone,
+  my name is seenivasan this is an springboot project called InstaCart.its totally an backend application no front end is involved here.so If you have any Complex Features to Implement Please Suggest!
+
+The App Includes Features Like:-
+  1.We Can Add Images To Our Product 
+  2.We have CRUD endpoints for each and every Entity
+  3.We have an Seperate User Login with JWT(JSON WEB TOKENS) tokens
+  4.We can also set User Roles like ADMIN,USER,CUSTOMER to contorl our Acess to endpoints accordingly 
+  5.JUNIT part is stil going will be completed soon...
+
+Features To Be Implememted as Version 2.0:-
+
+  1.Implemeting OAUTH2 for Gmail Verification 
+  2.Generating An Random Invoice PDF for Order Along with Details 
+  3.CSRF Tokens also to be Implemeted for additional security 
+  4.SSL/TLS Handshake to be implemeted 
+
+As an Fellow Developer Suggest Some more Features To Make My Application Complex !
+
+----------------------------------------------------------------------------------------------- THANK YOU----------------------------------------------------------------------------------------------------------
